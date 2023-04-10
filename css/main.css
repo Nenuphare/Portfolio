@@ -527,6 +527,45 @@ ul li {
 	margin-top: 30px;
 	margin-bottom: 80px;
 }
+
+/*-------------------------------------------------------------------------------
+	Veille css
+-------------------------------------------------------------------------------*/
+/* Reset some default styles */
+body, p {
+	margin: 0;
+	padding: 0;
+  }
+  
+  /* Global styles */
+  .veille {
+	font-family: Arial, sans-serif;
+  }
+  
+  /* Title style */
+  .veille h1 {
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 20px;
+  }
+  
+  /* Paragraph style */
+  .veille p {
+	font-size: 16px;
+	margin-bottom: 10px;
+  }
+  
+  /* Container style */
+  .veille-container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+  }
+  
+  /* Additional styles */
+  .veille-container .p {
+	font-style: italic;
+  }
 /* ------------------------------------------------------------------------------
 	Inner description
 -------------------------------------------------------------------------------*/
