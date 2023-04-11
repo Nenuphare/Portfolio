@@ -66,7 +66,7 @@ h5 {
 	Global Styles
 -------------------------------------------------------------------------------*/
 a {
-	color: #e84545;
+	color: #65349c;
 }
 a:hover, a:focus {
 	text-decoration: none;
@@ -673,7 +673,7 @@ margin-top:50px;
     text-transform: uppercase;
     display: block;
     font-weight: 600;
-    color: #ffffff;
+    color: black;
 }
 
 .skills .progress .skill .val {
@@ -689,6 +689,5 @@ margin-top:50px;
 .skills .progress-bar {
     width: 1px;
     height: 10px;
-    transition: 0.9s;
-    background-color: #34C924;
+    background-color: #65349c;
 }
