@@ -551,7 +551,7 @@ body, p {
   
   /* Paragraph style */
   .veille p {
-	font-size: 16px;
+	font-size: auto;
 	margin-bottom: 10px;
   }
   
